@@ -12,10 +12,11 @@
 
 *MENTOR NAME*: NEELA SANTHOSH
 
+## DESCRIPTION
+
 # Project Overview
 
 This Java-based console application is designed to demonstrate how real-time weather information can be fetched, processed, and displayed using an external weather API. The core idea behind this project is to help learners understand how Java applications interact with online services and work with live data instead of static or hardcoded values. In today’s software world, most applications rely on APIs to fetch data dynamically, and this project introduces that concept in a simple yet practical way.The application communicates with a weather API over the internet, retrieves weather-related information in JSON format, and processes that data to present meaningful output in the console. By keeping the application console-based, the project ensures that the focus remains on backend logic, API communication, and data handling rather than user interface design. This makes it especially suitable for students and beginners who want to strengthen their fundamentals in Java programming.
-
 
 # Features
 
@@ -44,7 +45,6 @@ This Java-based console application is designed to demonstrate how real-time wea
 •	Command Prompt / Terminal – Used to compile and execute the program outside the IDE, helping users understand how Java programs run in real environments.
 
 •	Weather API Service – An external online service that provides live weather data accessed through HTTP requests.
-
 
 # Platforms Used
 
