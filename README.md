@@ -61,3 +61,6 @@ This Java-based console application is designed to demonstrate how real-time wea
 
 # OUTPUT
 
+![Image](https://github.com/user-attachments/assets/ddaf7657-336b-4733-9f42-c25a7d1081dd)
+![Image](https://github.com/user-attachments/assets/23de405d-5103-4f33-9cb8-31c523c42e89)
+
